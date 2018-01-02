@@ -11,9 +11,10 @@
 		<provides>video</provides>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary>Filmix.Net</summary>
+		<summary>Filmix.сс</summary>
 		<description>
-			 Filmix.Net - Вашему вниманию полнометражное кино и телесериалы, мультфильмы, трейлеры.
+			 Filmix.сс - Вашему вниманию полнометражное кино и телесериалы, мультфильмы, трейлеры.
+			Fork of https://github.com/evgen-dev/repository.evgen_dev.xbmc-addons
 		</description>
 		<platform>all</platform>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
